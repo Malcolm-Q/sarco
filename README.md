@@ -1,2 +1,2 @@
 # sarco
-Discord bot that utilizes [croc](https://github.com/schollz/croc)
+This project uses `croc`, which is licensed under the MIT License. See LICENSE or https://github.com/schollz/croc for details.
